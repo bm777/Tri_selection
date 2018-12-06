@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544111113 source:/home/bm7/Codeblocks/Tri_selective/main.c
+	<stdio.h>
+	<stdlib.h>
+
